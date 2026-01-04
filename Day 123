@@ -1,1 +1,61 @@
+DAY 16 Manual CRN Entry System
 
+Today I removed the scanner feature. I implemented manual CRN entry with popup-based student data fetch. This made the system easier to use.
+
+DAY 17 Daily Meal Entry Page
+
+Today I created the daily meal entry page. Manager can enter breakfast, lunch, dinner, and extra meals. Quantity and price fields were added.
+
+DAY 18 Meal Type Handling
+
+Today I implemented proper meal type handling. I used JavaScript and PHP to manage different meal types. Data was stored correctly in the database.
+
+DAY 19 Save Meal Entry Logic
+
+Today I wrote backend logic to save meal entries. Meal data was inserted into student_meal_details table. Amount calculation was also implemented.
+
+DAY 20 Extra Meal Handling
+
+Today I added logic to handle extra meals separately. This ensured accurate billing for students.
+
+DAY 21 Billing Module Development
+
+Today I developed the billing module. Monthly bills are automatically calculated based on meal entries.
+
+DAY 22 PDF Generation Integration
+
+Today I integrated Dompdf library. I followed Dompdf documentation from GitHub. Billing PDFs were generated successfully.
+
+DAY 23 Single Student Billing PDF
+
+Today I created single student billing PDF. It shows meal details and total amount clearly.
+
+DAY 24 Meal Type Bug Fix
+
+Today I fixed a bug where meal type was showing incorrectly in PDF. I corrected backend query logic.
+
+DAY 25 JavaScript Bug Fixes
+
+Today I fixed JavaScript issues related to menu loading. I removed unnecessary parameters from fetch requests.
+
+DAY 26 UI Improvements
+
+Today I improved the user interface. I fixed spacing, buttons, and table alignment.
+
+DAY 27 Security Enhancements
+
+Today I added session checks on all important pages. Unauthorized access was restricted properly.
+
+DAY 28 Testing with Dummy Data
+
+Today I tested the full system. I used multiple dummy students and meal entries. All modules worked correctly.
+
+DAY 29 Final Bug Fixing
+
+Today I fixed minor bugs. I checked calculations, validations, and session handling.
+
+DAY 30 Final Review and Documentation
+
+Today I reviewed the complete project. I cleaned unused code and added comments. I prepared this 30 days diary for college submission.
+
+PROJECT COMPLETED SUCCESSFULLY
